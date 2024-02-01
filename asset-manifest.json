@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/assignment_3_1783617_peters_travis/static/css/main.e6c13ad2.css",
+    "main.js": "/assignment_3_1783617_peters_travis/static/js/main.62e5ca27.js",
+    "static/js/787.570ead33.chunk.js": "/assignment_3_1783617_peters_travis/static/js/787.570ead33.chunk.js",
+    "index.html": "/assignment_3_1783617_peters_travis/index.html",
+    "main.e6c13ad2.css.map": "/assignment_3_1783617_peters_travis/static/css/main.e6c13ad2.css.map",
+    "main.62e5ca27.js.map": "/assignment_3_1783617_peters_travis/static/js/main.62e5ca27.js.map",
+    "787.570ead33.chunk.js.map": "/assignment_3_1783617_peters_travis/static/js/787.570ead33.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.62e5ca27.js"
+  ]
+}
